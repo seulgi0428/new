@@ -23,7 +23,7 @@ figure {
 }
 figure h1 {
 	position: absolute;
-	top: 7vh;
+	top: 3vh;
 	left: 4vw;
 	font-size: 0;
 }
@@ -213,7 +213,7 @@ figure .btnPrev {
 	height: 60px;
 	position: absolute;
 	top: 50%;
-	left: 46.9%;
+	left: 47.3%;
 	transform: translate(-20vw, -50%);
 	display: flex;
 	align-items: center;
@@ -268,7 +268,7 @@ figure .btnNext {
 	height: 60px;
 	position: absolute;
 	top: 50%;
-	right: 46.9%;
+	right: 47.3%;
 	transform: translate(20vw, -50%);
 	display: flex;
 	align-items: center;
